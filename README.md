@@ -1,2 +1,7 @@
-# Household-Spending-Trends-Analysis
-This project offers a high-level analysis of household spending by examining real costs and their relationship with broader economic conditions. It identifies key trends and shifts in consumption behavior using aggregated indicators. The goal is to support clearer understanding of economic dynamics through visual analysis.
+## Project Overview
+
+This project delivers an in-depth yet practical analysis of household spending by integrating real (inflation-adjusted) costs with key economic indicators such as inflation rates and the EUR/RSD exchange rate. By transforming nominal values into real values, the analysis reveals how purchasing power changes under different economic conditions, rather than simply tracking spending over time.
+
+The project explores expense behavior across multiple dimensions—years, quarters, months, and spending categories—using a wide range of analytical techniques. These include cumulative and annual growth trends, moving averages for long-term stability, and QoQ and YoY metrics to capture short-term and structural changes in consumption. Special attention is given to volatility through standard deviation, enabling clear identification of stable versus high-risk periods.
+
+Visualizations highlight dominant cost categories, seasonal consumption patterns, and the impact of inflationary spikes and deflationary phases on consumer behavior. Comparative views between EUR and RSD values uncover currency effects and exchange rate stability, while forecasting models for inflation and exchange rates provide context for future scenarios. Overall, the project offers a structured, insight-driven framework for understanding how macroeconomic forces shape real household expenses and spending decisions.
