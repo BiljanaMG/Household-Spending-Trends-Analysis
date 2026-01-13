@@ -1,0 +1,151 @@
+﻿Description,Type,Category,Subcategory
+Maxi,Expense,Food,Groceries and Daily Essentials
+Apoteka,Expense,Health,Health and Personal Care
+Wolt,Expense,Food,Delivery
+Aman,Expense,Food,Groceries and Daily Essentials
+Stomatolog,Expense,Health,Health and Personal Care
+Dm,Expense,Personal Care,Drogerie
+Cargo,Expense,Transportation,Transportation and Fuel
+Lidl,Expense,Food,Groceries and Daily Essentials
+Ikea,Expense,Home,Home Appliances and Equipment
+Karting,Expense,Entertainment and Travel,Entertainment
+Tehnomania,Expense,Home,Home Appliances and Equipment
+Kineski restoran,Expense,Food,Dining Out
+McDonald's,Expense,Food,Dining Out
+Telefon,Expense,Fixed Expenses,Bills and Services
+Cargo Batler,Expense,Food,Delivery
+BestOptik,Expense,Health,Private healthcare
+Labrador,Expense,Clothing and Footwear,Clothing and Footwear
+LC Waikiki,Expense,Clothing and Footwear,Clothing and Footwear
+Mega Maxi,Expense,Food,Groceries and Daily Essentials
+Zdrava hrana,Expense,Food,Groceries and Daily Essentials
+Tsv Brave,Expense,Food,Groceries and Daily Essentials
+Kafić,Expense,Entertainment and Travel,Entertainment
+Aroma,Expense,Food,Groceries and Daily Essentials
+Idea,Expense,Food,Groceries and Daily Essentials
+Restoran,Expense,Food,Dining Out
+Richard giros,Expense,Food,Dining Out
+Asia Food,Expense,Food,Dining Out
+Kontiki,Expense,Entertainment and Travel,Travel
+CCC,Expense,Clothing and Footwear,Clothing and Footwear
+H&M,Expense,Clothing and Footwear,Clothing and Footwear
+KOTON,Expense,Clothing and Footwear,Clothing and Footwear
+Lulu,Expense,Food,Groceries and Daily Essentials
+Partizan,Expense,Gifts and Luxury,Gifts and Luxury
+Lilly,Expense,Personal care,Drogerie
+Decathlon,Expense,Clothing and Footwear,Clothing and Footwear
+Crna ovca,Expense,Entertainment and Travel,Entertainment
+Cineplexx,Expense,Entertainment and Travel,Entertainment
+EKOF,Expense,Education,Courses and Tuition
+Lucky 99,Expense,Home,Home Appliances and Equipment
+Glovo,Expense,Food,Delivery
+Nugenesis,Expense,Personal Care,Nails
+Metro,Expense,Home,Home Appliances and Equipment
+Uradi sam,Expense,Home,Home Appliances and Equipment
+Hidroponika,Expense,Home,Home Appliances and Equipment
+Pepco,Expense,Home,Home Appliances and Equipment
+Kuglanje,Expense,Entertainment and Travel,Entertainment
+P&C,Expense,Clothing and Footwear,Clothing and Footwear
+Reserved,Expense,Clothing and Footwear,Clothing and Footwear
+Tom Tailor,Expense,Clothing and Footwear,Clothing and Footwear
+Đak,Expense,Clothing and Footwear,Clothing and Footwear
+Kuhinjica,Expense,Food,Dining Out
+bc group,Expense,Home,Home Appliances and Equipment
+Kantina,Expense,Food,Dining Out
+Legend,Expense,Clothing and Footwear,Clothing and Footwear
+Delhaize_inc,Income,Income,Regular Income
+Portfolio_inc,Income,Income,Regular Income
+Transfer In,Income,Transfers,Internal Transfers
+Taxi,Expense,Transportation,Transportation and Fuel
+Infostan,Expense,Fixed Expenses,Bills and Services
+SBB internet,Expense,Fixed Expenses,Bills and Services
+Telekom,Expense,Fixed Expenses,Bills and Services
+Odrzavanje racuna,Expense,Banking service,Banking service
+Struja,Expense,Fixed Expenses,Bills and Services
+Shine,Expense,Fixed Expenses,Bills and Services
+Transfer Out,Expense,Transfers,Internal Transfers
+Master card rata,Expense,Master Card loan,Master Card loan
+ATM,Expense,Cash,Cash
+Naknada,Expense,Banking service,Banking service
+Delfi,Expense,Education,Books and Library
+Putarina,Expense,Transportation,Transportation and Fuel
+Avangardia,Expense,Clothing and Footwear,Clothing and Footwear
+Frizer,Expense,Personal Care,Hear
+Terannova,Expense,Clothing and Footwear,Clothing and Footwear
+Poklon,Expense,Gifts and Luxury,Gifts and Luxury
+Generali Osirguranje,Expense,Entertainment and Travel,Travel
+Koncert,Expense,Entertainment and Travel,Entertainment
+Megatrend - školarina,Expense,Education,Courses and Tuition
+Zara,Expense,Clothing and Footwear,Clothing and Footwear
+Bonus,Income,Income,Other
+OPI,Expense,Personal Care,Nails
+S Oliver,Expense,Clothing and Footwear,Clothing and Footwear
+Megatrend - administracija,Expense,Education,Courses and Tuition
+Zlatara Andrejević,Expense,Gifts and Luxury,Gifts and Luxury
+Nine West,Expense,Clothing and Footwear,Clothing and Footwear
+Liscaven,Expense,Clothing and Footwear,Clothing and Footwear
+Djerdanven,Expense,Food,Dining Out
+Licna karta,Expense,Fixed Expenses,Administrative Fees
+Pasos,Expense,Fixed Expenses,Administrative Fees
+Vozacka,Expense,Fixed Expenses,Administrative Fees
+Mini medeni mesec,Expense,Entertainment and Travel,Travel
+Loto,Expense,Entertainment and Travel,Entertainment
+House,Expense,Clothing and Footwear,Clothing and Footwear
+GSP,Expense,Transportation,Transportation and Fuel
+Lumea,Expense,Personal Care,Personal Care
+Shop&Go,Expense,Food,Groceries and Daily Essentials
+Majstor,Expense,Home,Repairs
+Magicno sredstvo,Expense,Home,Home Appliances and Equipment
+More,Expense,Entertainment and Travel,Travel
+NIS,Expense,Transportation,Transportation and Fuel
+Bioskop,Expense,Entertainment and Travel,Entertainment
+A1 racun,Expense,Fixed Expenses,Bills and Services
+Loto dobitak,Income,Income,Other
+Jumbo,Expense,Home,Home Appliances and Equipment
+Logic shop,Expense,Home,Home Appliances and Equipment
+Dis,Expense,Food,Groceries and Daily Essentials
+Netflix,Expense,Home,Home Appliances and Equipment
+Ananas,Expense,Home,Home Appliances and Equipment
+Dom zdravlja Jedro,Expense,Health,Private healthcare
+Springfild,Expense,Clothing and Footwear,Clothing and Footwear
+OVS,Expense,Clothing and Footwear,Clothing and Footwear
+Microsoft,Expense,Education,License
+Laguna,Expense,Education,Books and Library
+Kontrast izdavastvo,Expense,Education,Books and Library
+Impresivna,Expense,Personal Care,Nails
+Psiholog,Expense,Health,Psychiatrist
+Vitapur,Expense,Home,Home Appliances and Equipment
+Yisk,Expense,Home,Home Appliances and Equipment
+Donacija,Expense,Good deed,Donation
+Gigatron,Expense,Home,Home Appliances and Equipment
+Ne znam,Expense,Other,Other
+Temu,Expense,Home,Home Appliances and Equipment
+Biljke,Expense,Home,Home Appliances and Equipment
+Caliope,Expense,Clothing and Footwear,Clothing and Footwear
+Leon,Expense,Clothing and Footwear,Clothing and Footwear
+CT shop,Expense,Home,Home Appliances and Equipment
+Pozamanterija,Expense,Hobby,Crocheting
+Poslastičarnica,Expense,Food,Dining Out
+Women secret,Expense,Clothing and Footwear,Clothing and Footwear
+Rossen,Expense,Personal Care,Personal hygiene
+Udemy,Expense,Education,Courses and Tuition
+Biblioteka,Expense,Education,Books and Library
+Zrno RA,Expense,Food,Groceries and Daily Essentials
+Pecat zivota,Expense,Education,Courses and Tuition
+Mesara,Expense,Food,Groceries and Daily Essentials
+Ajo Leather,Expense,Clothing and Footwear,Clothing and Footwear
+Farmit,Expense,Food,Delivery
+Crux,Expense,Personal Care,Supplementation
+Hotel,Expense,Entertainment and Travel,Travel
+Airport,Expense,Entertainment and Travel,Travel
+Esim,Expense,Entertainment and Travel,Travel
+Massimo Duti,Expense,Clothing and Footwear,Clothing and Footwear
+Stradivarius,Expense,Clothing and Footwear,Clothing and Footwear
+Dućan Moj medak,Expense,Food,Groceries and Daily Essentials
+Kopirnica,Expense,Other,Other
+ChatGPT,Expense,Education,Courses and Tuition
+Jysk,Expense,Home,Home Appliances and Equipment
+Semos_inc,Income,Income,Additional Income
+British Council,Expense,Education,Courses and Tuition
+Poliglot doo,Expense,Education,Courses and Tuition
+Saldo ly rsd,Income,Saldo,Saldo
